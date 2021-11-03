@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\obj\Debug\net5.0\SnakeBoard.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\obj\Debug\net5.0\SnakeBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\obj\Debug\net5.0\SnakeBoard.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\obj\Debug\net5.0\SnakeBoard.AssemblyInfo.cs
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\obj\Debug\net5.0\SnakeBoard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\bin\Debug\net5.0\SnakeBoard.exe
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\bin\Debug\net5.0\SnakeBoard.deps.json
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\bin\Debug\net5.0\SnakeBoard.runtimeconfig.json
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\bin\Debug\net5.0\SnakeBoard.runtimeconfig.dev.json
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\bin\Debug\net5.0\SnakeBoard.dll
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\bin\Debug\net5.0\ref\SnakeBoard.dll
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\bin\Debug\net5.0\SnakeBoard.pdb
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\obj\Debug\net5.0\SnakeBoard.dll
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\obj\Debug\net5.0\ref\SnakeBoard.dll
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\obj\Debug\net5.0\SnakeBoard.pdb
+C:\Users\User\Desktop\Advanced Software Technologies\SnakeBoard\SnakeBoard\SnakeBoard\obj\Debug\net5.0\SnakeBoard.genruntimeconfig.cache
