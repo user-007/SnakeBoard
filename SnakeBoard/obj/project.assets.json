@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Advanced Software Technologies\\SnakeBoard\\SnakeBoard\\SnakeBoard\\SnakeBoard.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\SnakeBoard\\SnakeBoard\\SnakeBoard.csproj",
       "projectName": "SnakeBoard",
-      "projectPath": "C:\\Users\\User\\Desktop\\Advanced Software Technologies\\SnakeBoard\\SnakeBoard\\SnakeBoard\\SnakeBoard.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\SnakeBoard\\SnakeBoard\\SnakeBoard.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Advanced Software Technologies\\SnakeBoard\\SnakeBoard\\SnakeBoard\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\SnakeBoard\\SnakeBoard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

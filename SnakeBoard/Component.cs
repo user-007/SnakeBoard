@@ -8,31 +8,13 @@ namespace SnakeBoard
 {
     /*
      a component can be :
-
     1) Cell -> defined by indexes  - x,y
-    2) Row -> int i = 0; 
+    2) Row -> 
     3) Grid ->   
      */
-   abstract class Component
+    abstract class Component
     {
-      
-        //these classes can be overriden, when inherited
-        public virtual void goUP()
-        {
-
-        }
-
-        public virtual void goDOWN()
-        {
-
-        }
-        public virtual void goLEFT()
-        {
-
-        }
-        public virtual void goRIGHT()
-        {
-
-        }
+        
     }
 }
+        
